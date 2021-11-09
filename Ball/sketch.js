@@ -1,4 +1,6 @@
 var colors = ["white","orange","red","green"];
+//SAA2:
+//var colors = ["white","orange","red","green", "yellow","pink"];
 
 function setup() {
   createCanvas(innerWidth, innerHeight);
